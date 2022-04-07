@@ -1,0 +1,6 @@
+*.png
+*.pyc
+*.idea
+tmp
+experiments_config.py
+.ipynb_checkpoints
